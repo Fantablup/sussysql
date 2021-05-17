@@ -1,5 +1,6 @@
 # sussysql
 
-test
+Dadabase admin SQL tool.
 
-test2
+Working on finishing the first version.
+It will have Firebird SQL in the first version.
