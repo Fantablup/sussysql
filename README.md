@@ -1,4 +1,4 @@
-# sussysql
+# SussySQL
 
 Dadabase admin SQL tool.
 
